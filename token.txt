@@ -1,1 +1,5 @@
-MTEwNzU3NzUzNzE0OTgwMDQ4OQ.GvyyCS.1nY_35NpvZE_sqnrokbJRC9kpMUh6bypyYBI1Y
+{
+
+  "token": "MTEwNzU3NzUzNzE0OTgwMDQ4OQ.GvyyCS.1nY_35NpvZE_sqnrokbJRC9kpMUh6bypyYBI1Y"
+
+}
